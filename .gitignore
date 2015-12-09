@@ -18,5 +18,5 @@ nytprof.out
 *.o
 *.bs
 /_eumm/
-config/*
+/config/credentials.cfg
 
